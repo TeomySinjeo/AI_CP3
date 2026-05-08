@@ -1,0 +1,14 @@
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\bin\Debug\net10.0\AI_CP3.exe
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\bin\Debug\net10.0\AI_CP3.deps.json
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\bin\Debug\net10.0\AI_CP3.runtimeconfig.json
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\bin\Debug\net10.0\AI_CP3.dll
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\bin\Debug\net10.0\AI_CP3.pdb
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.AssemblyInfoInputs.cache
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.AssemblyInfo.cs
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.csproj.CoreCompileInputs.cache
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.dll
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\refint\AI_CP3.dll
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.pdb
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\AI_CP3.genruntimeconfig.cache
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net10.0\ref\AI_CP3.dll

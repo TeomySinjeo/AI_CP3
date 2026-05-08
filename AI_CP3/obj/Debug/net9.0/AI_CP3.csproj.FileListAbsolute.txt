@@ -1,0 +1,4 @@
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net9.0\AI_CP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net9.0\AI_CP3.AssemblyInfoInputs.cache
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net9.0\AI_CP3.AssemblyInfo.cs
+C:\Users\gavrilovrs24\Desktop\AI_CP3\AI_CP3\obj\Debug\net9.0\AI_CP3.csproj.CoreCompileInputs.cache
